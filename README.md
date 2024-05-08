@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&random=false&width=435&lines=Ol%C3%A1%2C+sou+Maria+Luiza.;Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <div>
-  <p>💻Atualmente estou cursando Técnico de Programação de Jogos</p>
+  <p>💻Atualmente estou cursando Técnico de Programação de Jogos Digitais</p>
 </div>
 
 <div>
